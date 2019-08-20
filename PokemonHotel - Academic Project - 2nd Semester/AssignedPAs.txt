@@ -1,0 +1,5 @@
+1	ID: 11905            | Name: Layla Daniels         | Expert Level: 4   | Type: Water , Poison
+2	ID: 10973            | Name: Kirby Wallis          | Expert Level: 2   | Type: Ground , Fire
+3	ID: 10371            | Name: Elicia Good           | Expert Level: 3   | Type: Rock , Poison
+4	ID: 14026            | Name: Stefania Lutz         | Expert Level: 1   | Type: Ice , Fighting
+5	ID: 10991            | Name: Kaylee Clay           | Expert Level: 4   | Type: Grass , Fire

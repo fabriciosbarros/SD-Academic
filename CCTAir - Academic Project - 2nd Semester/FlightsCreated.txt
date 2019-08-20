@@ -1,0 +1,3 @@
+ | Origin: Dublin |  Destination: London | Date of the flight: 2019-07-01 | Departure time: 6:30 | Arrival time: 7:30 | Airplain make: Airbus | Airplain model: A330 Capacity: 335 seats | Pilot name: Gayle Gomez | Pilot rating: 3
+ | Origin: Madrid |  Destination: Edinburgh | Date of the flight: 2019-07-02 | Departure time: 7:30 | Arrival time: 10:30 | Airplain make: Airbus | Airplain model: A320 Capacity: 186 seats | Pilot name: Ben Guerra | Pilot rating: 2
+ | Origin: Brussels |  Destination: Budapest | Date of the flight: 2019-07-03 | Departure time: 8:30 | Arrival time: 10:30 | Airplain make: Boeing | Airplain model: 747 Capacity: 400 seats | Pilot name: Lonny Morton | Pilot rating: 3

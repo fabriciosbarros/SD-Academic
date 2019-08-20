@@ -1,0 +1,15 @@
+1	ID: 10276            | Name: Maison Garrett        | Expert Level: 6   | Type: Dragon , Fire
+2	ID: 14402            | Name: Leigha O'Ryan         | Expert Level: 6   | Type: Ice , Rock 
+3	ID: 14834            | Name: Nour Sparrow          | Expert Level: 5   | Type: Dark , Steel
+4	ID: 14900            | Name: Ayaana Lewis          | Expert Level: 5   | Type: Ground , Flying
+5	ID: 15530            | Name: Milla Velasquez       | Expert Level: 6   | Type: Steel , Fire
+6	ID: 16911            | Name: Darnell Callaghan     | Expert Level: 2   | Type: Rock , Psychic
+7	ID: 17089            | Name: Miley Ingram          | Expert Level: 4   | Type: Fighting , Bug
+8	ID: 17620            | Name: Emaan Odom            | Expert Level: 3   | Type: Water , Rock
+9	ID: 18077            | Name: Yvette Hull           | Expert Level: 4   | Type: Electric , Normal
+10	ID: 18266            | Name: Monika Chaney         | Expert Level: 6   | Type: Flying , Ice
+11	ID: 18652            | Name: Cian Roberson         | Expert Level: 6   | Type: Water , Flying
+12	ID: 18859            | Name: Alyssa Prentice       | Expert Level: 3   | Type: Ice , Flying
+13	ID: 19386            | Name: Giorgio Ryan          | Expert Level: 3   | Type: Grass , Fairy
+14	ID: 19476            | Name: Marlie Pittman        | Expert Level: 3   | Type: Fairy , Dragon
+15	ID: 19898            | Name: Ellie-Rose Wilks      | Expert Level: 1   | Type: Poison , Ice
